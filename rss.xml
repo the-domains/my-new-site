@@ -4,22 +4,8 @@
         <description><![CDATA[my new site]]></description>
         <link>https://thegrid.ai/my-new-site/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Jan 2016 08:28:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jan 2016 08:28:28 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/my-new-site/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>lksjdlsj</p>]]></description>
-            <link>https://thegrid.ai/my-new-site/a74146bc-23d2-46a0-9496-f616180237c9/index.html</link>
-            <guid isPermaLink="false">a74146bc-23d2-46a0-9496-f616180237c9</guid>
-            <pubDate>Tue, 05 Jan 2016 08:28:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Owl]]></title>
-            <description><![CDATA[<article><h1>Owl</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/72ea2836-60eb-4874-adf7-b8efceae5417.png"></article>]]></description>
-            <link>https://thegrid.ai/my-new-site/owl/index.html</link>
-            <guid isPermaLink="false">daa53796-af59-4986-b44c-788d1d515949</guid>
-            <pubDate>Tue, 05 Jan 2016 08:28:03 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>My first post.</p>]]></description>
