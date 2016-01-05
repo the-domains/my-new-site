@@ -2,14 +2,42 @@
     <channel>
         <title><![CDATA[my new site]]></title>
         <description><![CDATA[my new site]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/my-new-site/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Jan 2016 08:28:09 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 05 Jan 2016 17:13:23 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/my-new-site/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>jsdfjsldkfjsljfsldkjflsjf</p>]]></description>
+            <link>https://thegrid.ai/my-new-site/19bb8abf-82e6-4514-9d08-cd5861d16f66/index.html</link>
+            <guid isPermaLink="false">19bb8abf-82e6-4514-9d08-cd5861d16f66</guid>
+            <pubDate>Tue, 05 Jan 2016 17:13:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>lksjdlsj</p>]]></description>
+            <link>https://thegrid.ai/my-new-site/a74146bc-23d2-46a0-9496-f616180237c9/index.html</link>
+            <guid isPermaLink="false">a74146bc-23d2-46a0-9496-f616180237c9</guid>
+            <pubDate>Tue, 05 Jan 2016 08:28:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Owl]]></title>
+            <description><![CDATA[<article><h1>Owl</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8f698c7097a80661fd418df96ba628d8ab34627e.png"></article>]]></description>
+            <link>https://thegrid.ai/my-new-site/owl/index.html</link>
+            <guid isPermaLink="false">daa53796-af59-4986-b44c-788d1d515949</guid>
+            <pubDate>Tue, 05 Jan 2016 08:28:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>My first post.</p>]]></description>
+            <link>https://thegrid.ai/my-new-site/3b7e2352-1ec8-480e-83fd-7a68aecfcb5b/index.html</link>
+            <guid isPermaLink="false">3b7e2352-1ec8-480e-83fd-7a68aecfcb5b</guid>
+            <pubDate>Tue, 05 Jan 2016 08:28:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/28aeda8a-e525-4421-8fd3-69ca8303f372.png">]]></description>
-            <link>undefined3ccc390f-9f32-4c1e-a1e3-07536820544d/index.html</link>
+            <link>https://thegrid.ai/my-new-site/3ccc390f-9f32-4c1e-a1e3-07536820544d/index.html</link>
             <guid isPermaLink="false">3ccc390f-9f32-4c1e-a1e3-07536820544d</guid>
             <pubDate>Tue, 05 Jan 2016 08:28:03 GMT</pubDate>
         </item>
